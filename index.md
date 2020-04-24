@@ -11,55 +11,102 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
 
-*Insert URL to project*
+Assault type Thomas
 
-![Image](missingimage.png)
+https://www.youtube.com/watch?v=2q82bGtujFA
+https://www.youtube.com/watch?v=6yGbupUP4f8
 
+![Image](TCE.PNG)
+
+This project is relevant to mine as I want to modify a toy like they have done and turn into something creepy. They have twisted a child’s toy icon into a weird uncanny valley spiderlike creature. They have also added servos to the eyes so they follower where the robot is looking making it somewhat life like. 
+
+### Related project 2 ###
+Sophia
+
+https://www.youtube.com/watch?v=Sq36J9pNaEo
+https://www.hansonrobotics.com/sophia/
+
+![Image](STR.PNG)
+(8:46)
+Sophia the robot is relevant to my project as she is the cutting edge on AI technology and voice synthesis. Personally, I find her creepy as she falls into the uncanny valley. Her speech is just off enough that it almost sounds human, but it is still robotic. Also, her face is incredibly in the uncanny valley. I wish to implement voice synthases into this haunted doll to create integration between doll and person. 
+
+### Related project 3 ###
+Charlie, Furby Mod
+
+https://daydehlus.tumblr.com/post/174958567438/made-this-handsome-boy-a-little-while-back-but
+
+![Image](CFM.jpg)
+
+Charlie relates to my project as he is a horrifying Furby mod. They light up from inside the mouth. He screams horrifically and overall is incredibly unsettling and I hope to make something even close to the level of weirdness as them. I honestly could write a lot about how inspired I get from the Furby modding community however most of them don’t have a lot of circuity added onto them.  
+### Related project 4 ###
+Neopixel Upgrade: Halo Energry Sword
+
+https://learn.adafruit.com/halo-energy-sword-by-mattel-neopixel-upgrade/overview
+
+![Image](HSS.jpg)
+The project was relevant to me as it shows how you can use neopixels to upgrade something that already has lights in it. It was interesting to watch the breakdown of the project from how you should test pre-existing electronics to make sure you don’t fry anything you add. I was also interesting to be introduced to a small microcontroller that works for neopixels. I may not use neopixels however I do want to add at least some LED element to the doll. 
+
+### Related project 5 ###
+FLAP CHILD 
+
+https://samsketchbook.tumblr.com/day/2019/03/22
+
+![Image](FC.PNG)
+I saw this sculpture last year and I haven’t been able to get it out of my head. These sculptures inspire me heavily. I love how horrible and fleshy it is. The weird way they move. The low fi speaker. However even though I love them I cant replicate them so I merely have to draw inspiration for thier bizarreness. 
+
+### Related project 6 ###
+ALEXA Smart Mirror (New Build)
+
+https://www.youtube.com/watch?v=aa3VVZA0e5Y
+
+![Image](MM.PNG)
+
+This was a relevant build to this project as it went though each DIY step on integrating smart technology into a mirror. It was interesting to see how the Hodge podded to the mirror together to create a smooth piece of technology. The interactions between preexisting tech into a new form is rather interesting and relevant as I need to think of how I don’t have to reinvent the wheel to create something interesting and unique. 
 This project is related to mine because *insert reasons here*.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+The uncanny valley is where the human like elements of an object relates to how we relate to something. Once we reach a point in likeness humans find objects uncanny and unsettling. Things such a robots, dead bodies and certain children’s toys. Once something becomes to human, we become horrified of it. The whole project is based around this premise. 
+https://search-proquest-com.libraryproxy.griffith.edu.au/docview/1897401494?pq-origsite=summon
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+The intent of this project is it create a creepy doll.
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+A soft sculpture that barley moves and lights up in different ways. It would also mimic the looks of animals however it would be spliced with multiple creates like a chimera from hell.
 
 ### Design concept 2 ###
-*Put details here.*
+A satanic bleeding goat doll. The idea is to modify a sheep doll to become a satanic toy. With a pentagram on its for head and blood dripping from its eyes. This would be made with a fluid pump pumping fluid out of eye holes. Also, it could have red glowing eyes. It would also have AI synthesised bleets and it would chant hymens robotically. 
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+The main idea I have chosen to go with is a modified baby doll. This doll with speak when it can hear people are around. Once picked up it will vibrate in the persons hand. I want to incorporate some form of lighting, but I am currently unsure how. It will also have elements of its from changed such as one of its legs being elongated to create something even more unsettling. 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](IFC.png)
 
 ## Physical experimentation documentation ##
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
-![Image](missingimage.png)
-
+Prototype development 
+![Image](CH1.png)
+![Image](CH1.png)
+I have been working with the idea of how you transform a baby into something creepier without completely destroying the look of it.
+Vibration motor test
+https://www.youtube.com/watch?v=InrTawg3uNo&list=UU49hhVYTqbuCSn0slkdIZQw
+Voice Synth Tests
+https://www.youtube.com/watch?v=5-L6RR9OpuM
+https://www.youtube.com/watch?v=Aa-3l5LpDfM
+https://www.youtube.com/watch?v=CFRWFOBoCvc
+Voice Sythn coding testing
+![Image](CS1.PNG)
+![Image](CS2.PNG)
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+1.	Mod the doll further
+2.	Workout how to code more in python
+3.	Obtain a louder and bigger speaker
+4.	Plan out the circuits 
+
