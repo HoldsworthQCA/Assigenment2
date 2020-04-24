@@ -52,7 +52,7 @@ FLAP CHILD
 
 https://samsketchbook.tumblr.com/day/2019/03/22
 
-![Image](FC.PNG)
+![Image](FC.png)
 I saw this sculpture last year and I haven’t been able to get it out of my head. These sculptures inspire me heavily. I love how horrible and fleshy it is. The weird way they move. The low fi speaker. However even though I love them I cant replicate them so I merely have to draw inspiration for thier bizarreness. 
 
 ### Related project 6 ###
