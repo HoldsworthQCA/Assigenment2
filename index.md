@@ -90,7 +90,7 @@ The main idea I have chosen to go with is a modified baby doll. This doll with s
 ## Physical experimentation documentation ##
 Prototype development 
 ![Image](CH1.png)
-![Image](CH1.png)
+![Image](CH2.png)
 I have been working with the idea of how you transform a baby into something creepier without completely destroying the look of it.
 Vibration motor test
 https://www.youtube.com/watch?v=InrTawg3uNo&list=UU49hhVYTqbuCSn0slkdIZQw
